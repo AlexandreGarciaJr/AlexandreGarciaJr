@@ -15,12 +15,6 @@
 )  ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 ) 
 
-## - 💆‍♂️ Soft Skills 👌
-- Gestão
-- Organização 
-- Autodidata
-- Proatividade
-- Trabalho em Equipe
 
 ## - 📲 Contato ☎
 - (11) 98618-6964
