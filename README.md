@@ -17,7 +17,7 @@
 
 
 ## - 📲 Contato ☎
-- (11) 98618-6964
+- +55 11 98618-6964
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:alexandregojunior@gmail.com)
