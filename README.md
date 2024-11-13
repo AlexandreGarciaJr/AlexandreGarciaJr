@@ -1,7 +1,7 @@
 ## Olá, sou Alexandre Garcia 👋
-- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
-- 👨‍🎓 Formado em Arquitetura e Urbanismo
-- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado
+- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC.
+- 👨‍🎓 Formado em Arquitetura e Urbanismo.
+- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado.
 
 
 
