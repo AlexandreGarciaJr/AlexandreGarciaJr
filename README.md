@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Olá, sou Alexandre Garcia 👋
 - 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC.
 - 👨‍🎓 Formado em Arquitetura e Urbanismo.
