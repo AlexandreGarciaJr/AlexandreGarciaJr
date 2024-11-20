@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, sou Alexandre Garcia 👋
+### Olá, meu nome é:
+<img src="https://img.shields.io/static/v1?label=Overview&message=AlexandreGarcia&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 - 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
 - 👨‍🎓 Formado em Arquitetura e Urbanismo
 - 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado
@@ -16,12 +18,11 @@
 )  ![Blog](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Blog](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### - 📲 Contato {
+### - 📲 Contato
 - +55 11 98618-6964
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:alexandregojunior@gmail.com)
-}
 
 <table>
   <tr>
