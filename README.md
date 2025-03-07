@@ -3,9 +3,9 @@
 ### Olá, meu nome é:
 <img src="https://img.shields.io/static/v1?label=Overview&message=Alexandre Garcia&color=2b3137&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC.
-- 👨‍🎓 Formado em Arquitetura e Urbanismo.
-- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado.
+- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
+- 👨‍🎓 Formado em Arquitetura e Urbanismo
+- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado
 
 
 ### - 🔭 Redes Sociais
