@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Olá, meu nome é:
-<img src="https://img.shields.io/static/v1?label=Overview&message=Alexandre Garcia&color=2b3137&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Nome&message=Alexandre%20Garcia&color=000000&labelColor=808080&style=for-the-badge" alt="Badge Alexandre Garcia">
 
 - 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
 - 👨‍🎓 Formado em Arquitetura e Urbanismo
