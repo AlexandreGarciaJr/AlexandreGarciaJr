@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333333&size=35&center=true&vCenter=true&width=1000&lines=HI,+my+name+is+Alexandre+Garcia;Welcome!+:%29)](https://git.io/typing-svg) 
-
+##
+##
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <img src="https://img.shields.io/static/v1?label=Name&message=Alexandre%20Garcia&color=000000&labelColor=808080&style=for-the-badge" alt="Badge Alexandre Garcia">
 
 - 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
@@ -62,6 +62,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gmcasagrande&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+##
+##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
