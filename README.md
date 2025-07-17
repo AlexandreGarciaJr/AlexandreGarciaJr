@@ -10,6 +10,8 @@
 - 👨‍🎓 Formado em Arquitetura e Urbanismo.
 - 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado.
 
+### - 📚 Portifolio
+https://alexandregarciajr.github.io/
 
 ### - 🔭 Redes Sociais
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandregarcia-junior/) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
