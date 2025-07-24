@@ -12,7 +12,7 @@
 - 👨‍🎓 Formado em Arquitetura e Urbanismo.
 - 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado.
 
-### - 📚 Portifolio
+### - 📚 Portifólio
 https://alexandregarciajr.com/
 
 ### - 🔭 Redes Sociais
