@@ -29,29 +29,8 @@ https://alexandregarciajr.com/
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:alexandregojunior@gmail.com)
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=AlexandreGarciaJr&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGarciaJr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandreGarciaJr&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gmcasagrande&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 ##
 ##
