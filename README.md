@@ -25,9 +25,12 @@ https://alexandregarciajr.com/
 
 ### - 📲 Contato
 - +55 11 98618-6964
-
+<br><br>
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:alexandregojunior@gmail.com)
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandreGarciaJr&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
