@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/static/v1?label=Name&message=Alexandre%20Garcia&color=000000&labelColor=3333333style=for-the-badge" alt="Badge Alexandre Garcia">
 
 
-- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC
-- 👨‍🎓 Formado em Arquitetura e Urbanismo
-- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado
+- 🏃‍♂️ Estudante de Análise e Desenvolvimento de Sistemas pela instituição SENAC.
+- 👨‍🎓 Formado em Arquitetura e Urbanismo.
+- 🤓 Nova jornada na carreira de Tecnologia que sou tão apaixonado.
 
 ### - 📚 Portifólio
 https://alexandregarciajr.com/
